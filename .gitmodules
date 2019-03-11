@@ -1,9 +1,9 @@
 [submodule "literouter"]
 	path = literouter
-	url = git@bitbucket.org:solo_heart/literouter.git
+	url = git@github.com:journeyOS/LiteRouter.git
 [submodule "literouter-compiler"]
 	path = literouter-compiler
-	url = git@bitbucket.org:solo_heart/literouter-compiler.git
+	url = git@github.com:journeyOS/LiteRouter-compiler.git
 [submodule "literouter-annotation"]
 	path = literouter-annotation
-	url = git@bitbucket.org:solo_heart/literouter-annotation.git
+	url = git@github.com:journeyOS/LiteRouter-annotation.git
